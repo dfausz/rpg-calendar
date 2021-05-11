@@ -1,0 +1,61 @@
+{
+    "year_len": 224,
+    "events": 0,
+    "n_months": 8,
+    "months": [
+        "Amuet",
+        "Morad",
+        "Accot",
+        "Ehlonhu",
+        "Ellior",
+        "Korit",
+        "Langhnen",
+        "Myrhan"
+    ],
+    "month_len": {
+        "Amuet": 28,
+        "Morad": 28,
+        "Accot": 28,
+        "Ehlonhu": 28,
+        "Ellior": 28,
+        "Korit": 28,
+        "Langhnen": 28,
+        "Myrhan": 28
+    },
+    "week_len": 7,
+    "weekdays": [
+        "Edar",
+        "Nannan",
+        "Frahr",
+        "Irthir",
+        "Versel",
+        "Faestir",
+        "Vorel"
+    ],
+    "n_moons": 4,
+    "moons": [
+        "Zerrath"
+    ],
+    "lunar_cyc": {
+        "1": 28,
+        "2": 42,
+        "3": 224,
+        "Zerrath": 14
+    },
+    "lunar_shf": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "Zerrath": 6
+    },
+    "year": 700,
+    "first_day": 0,
+    "notes": {
+        "700-8-18": "Spring Equinox",
+        "700-2-18": "Summer Solstice",
+        "700-4-18": "Autumn Equinox",
+        "700-6-18": "Winter Solstice",
+        "700-5-15": "Harvest Festival",
+        "700-1-1": "Lunar Bloom Festival"
+    }
+}
