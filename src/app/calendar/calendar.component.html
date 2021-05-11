@@ -1,0 +1,15 @@
+<div class="calendar-container">
+    <div class="month-name">{{ month.name }}</div>
+    <div class="week-names">
+        <div class="weekday-name" *ngFor="let weekday of month.weekdays">
+            {{ weekday }}
+        </div>
+    </div>
+    <div class = "days">
+        <div class="week" *ngFor="let week of getDaysArray()">
+            <div class="day-number" *ngFor="let day of week">
+                {{ day }}
+            </div>
+        </div>
+    </div>
+</div>
